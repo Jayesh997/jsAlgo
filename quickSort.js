@@ -23,4 +23,4 @@ let ra =[];
 }
 
 
-console.log(quickSort(array))
+console.log(quickSort(array));
